@@ -10,7 +10,7 @@ The code - as it is given in this repository - can be used to recreate the numer
 > The code has not been optimized for efficiency. The implementation concentrates on the extendability of the method for further research later on.
 
 ## System requirements
-The code has been implemented and tested in `Python 3.9` on a MacBook M1 Pro with macOS 14.2. The following libraries/modules are required for the execution of the code:
+The code has been implemented and tested in `Python 3.9` in macOS 14.2. The following libraries/modules are required for the execution of the code:
 - `sys`
 - `matplotlib`
 - `numpy`
@@ -19,7 +19,14 @@ The code has been implemented and tested in `Python 3.9` on a MacBook M1 Pro wit
 *(If the `labellines` library causes problems, you may also leave it away and use a simple legend in the `matplotlib` plot. Its only occurrences are in the `helper.py` file.)*
 
 ## Usage
-The file and folder structure of this project is as follows:
+If you are new to `Python`, you have to [download and install](https://wiki.python.org/moin/BeginnersGuide) `Python`.You can download the contents of this repository by downloading them from this website or by using `git`.
+
+The folder structure of this repository is as follows:
+- `src` - Contains system files 
+- `example_3_10`
+- `example_3_11`
+- `example_4_8`
+- `example_4_9`
 
 
 ## License
