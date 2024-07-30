@@ -22,14 +22,18 @@ The code has been implemented and tested in `Python 3.9` in macOS 14.2. The foll
 If you are new to `Python`, you have to [download and install](https://wiki.python.org/moin/BeginnersGuide) `Python`.You can download the contents of this repository by downloading them from this website or by using `git`.
 
 The folder structure of this repository is as follows:
-- `src` - Contains system files 
+- `src` - Contains helper files which are reauired for the execution of the examples
 - `example_3_10` - Can be used to recreate Example 3.10 from the paper. 
 - `example_3_11` - Can be used to recreate Example 3.11 from the paper.
 - `example_4_8` - Can be used to recreate Example 4.8 from the paper.
 - `example_4_9` - Can be used to recreate Example 4.9 from the paper.
 
 > [!IMPORTANT]
-> The examples can be executed independently from each other. They require the files from the `src` folder. If you want to rename the `src` folder or change the relative path from the executed file to the `src` folder, you have to adjust the second line in each `example_...` file.
+> The examples can be executed independently from each other. They require the files from the `src` folder. If you want to rename the `src` folder or change the relative path from the executed file to the `src` folder, you have to adjust the second line in each `example_????` file.
+
+Each numerical test in the `example_??_!!` folder consists of two files:
+- An executable file which starts with the prefix `example_`. You can execute these files from the command line without any additional arguments.
+- A settings file in which the problem settings for the corresponding numerical test are specified. You can change the problem settings of a numerical tests in this file.
 
 
 ## License
