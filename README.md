@@ -19,7 +19,7 @@ The code has been implemented and tested in `Python 3.9` in macOS 14.2. The foll
 *(If the `labellines` library causes problems, you may also leave it away and use a simple legend in the `matplotlib` plot. Its only occurrences are in the `helper.py` file.)*
 
 ## Usage
-If you are new to `Python`, you have to [download and install](https://wiki.python.org/moin/BeginnersGuide) `Python`. You can download the contents of this repository by downloading them from this website or by using `git`.
+If you are new to `Python`, you have to [download and install](https://wiki.python.org/moin/BeginnersGuide) `Python`. The contents of this repository are available in GitHub under [https://github.com/j-marquardt/time-adaptive-control-4d-var.git].
 
 The folder structure of this repository is as follows:
 - `src` - Contains helper files which are reauired for the execution of the examples
