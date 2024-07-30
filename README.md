@@ -23,10 +23,13 @@ If you are new to `Python`, you have to [download and install](https://wiki.pyth
 
 The folder structure of this repository is as follows:
 - `src` - Contains system files 
-- `example_3_10`
-- `example_3_11`
-- `example_4_8`
-- `example_4_9`
+- `example_3_10` - Can be used to recreate Example 3.10 from the paper. 
+- `example_3_11` - Can be used to recreate Example 3.11 from the paper.
+- `example_4_8` - Can be used to recreate Example 4.8 from the paper.
+- `example_4_9` - Can be used to recreate Example 4.9 from the paper.
+
+> [!IMPORTANT]
+> The examples can be executed independently from each other. They require the files from the `src` folder. If you want to rename the `src` folder or change the relative path from the executed file to the `src` folder, you have to adjust the second line in each `example_...` file.
 
 
 ## License
