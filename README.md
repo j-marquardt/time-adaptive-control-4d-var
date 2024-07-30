@@ -22,7 +22,7 @@ The code has been implemented and tested in `Python 3.9` in macOS 14.2. The foll
 If you are new to `Python`, you have to [download and install](https://wiki.python.org/moin/BeginnersGuide) `Python`. The contents of this repository are available in GitHub under https://github.com/j-marquardt/time-adaptive-control-4d-var.git.
 
 The folder structure of this repository is as follows:
-- `src` - Contains helper files which are reauired for the execution of the examples
+- `src` - Contains helper files which are reauired for the execution of the examples.
 - `example_3_10` - Can be used to recreate Example 3.10 from the paper. 
 - `example_3_11` - Can be used to recreate Example 3.11 from the paper.
 - `example_4_8` - Can be used to recreate Example 4.8 from the paper.
